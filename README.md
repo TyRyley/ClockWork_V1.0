@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------------------------
 Welcome to the README file for Clock Work - a timesheet android application
 		-- login details are at the bottom of this readme file --
+- To download the project files, please open the projectfile textfile and click on the link.
 
 > Name of the app:
 	- ClockWork
